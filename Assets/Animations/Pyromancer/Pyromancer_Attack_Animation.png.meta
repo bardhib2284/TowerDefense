@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: e66564b82bbf0d649bfec2d6b6c7f986
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3256
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfb55622a3fc2a46a0b9c1d00a67126
+      internalID: -1849355283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_1
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 3256
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed0c67573f498244992f308039d7933
+      internalID: -688176672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_2
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 3256
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096ed0ea28c3f0c488a005ef04bed5ce
+      internalID: 1287370746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_3
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 3256
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9c5a766b98a4c4a9d878a4d8ce7849
+      internalID: -2020322148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_4
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 3256
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e501b29e797a4974da84fbc97fba3941
+      internalID: -1449321849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_5
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 3256
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c77ba2d78afcb948befda7944f77536
+      internalID: -1971397559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2442
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1dff6db96b053409e0c5bd5bff8ea5
+      internalID: 852555739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_7
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2442
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2e00ec473cb2a4b856ab57aec67ba5
+      internalID: 1874899702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_8
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 2442
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6819248a29fdee4dae80e4245bcf2be
+      internalID: -565920980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_9
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 2442
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cba5c19fa51a6042a8123f95b4b5bdc
+      internalID: 519843537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_10
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 2442
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060e5356ceb724a47bec823bf24d15bc
+      internalID: 1152972160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_11
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 2442
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab2e1a7b9d04184d8e9e4ec15fef040
+      internalID: -1084488037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1628
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c2dce6ed63fcc43a62730099bcaaf9
+      internalID: 1560611340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_13
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1628
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e85725b7c791014c993b213d273267b
+      internalID: 622400918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_14
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1628
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baf2da7d917a594dbaeef0880a52631
+      internalID: 1311616004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_15
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 1628
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ab914f3fc8ee8458bc067f78e46f43
+      internalID: 645884245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_16
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 1628
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e842f883a3639949a0e8257ffeb9074
+      internalID: -818704513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_17
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 1628
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e09357710686304f869ca181d303e5e
+      internalID: 333040540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467ccf8c45af06a4ead293f2cef9c545
+      internalID: 1517241594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_19
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 814
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e86fb7d65f0ea469cd55c1c4eb254a
+      internalID: -467237350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_20
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 814
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29bc19b7729beb40bd7156ec1dcdd6b
+      internalID: 1261931109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_21
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 814
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0d704594e564c488dddd74129a1d8d
+      internalID: 814513086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_22
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 814
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba54a7ee5786146b974239413aa077
+      internalID: -96176211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_23
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 814
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cf299a07919ab4da3183dd5423da3a
+      internalID: -616761263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7364e3c7a3e744e823cf7f7075ecd9
+      internalID: -1840683571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_25
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 0
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3eb017515c7ef48ad001072c3dee42
+      internalID: -676084644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_26
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 0
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c2691e2afd11d41ba068da42030287
+      internalID: -641028879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_27
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 0
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949e9b91a53eb46439e1e94dd6b0d5a1
+      internalID: -186479459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_28
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 0
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6cb9a28ff56934fad23e5db42f5291
+      internalID: -1608074069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Attack_Animation_29
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 0
+        width: 787
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bde4e1be31a714ba10ca7a6e828b0b
+      internalID: -604915056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pyromancer_Attack_Animation_0: -1849355283
+      Pyromancer_Attack_Animation_1: -688176672
+      Pyromancer_Attack_Animation_10: 1152972160
+      Pyromancer_Attack_Animation_11: -1084488037
+      Pyromancer_Attack_Animation_12: 1560611340
+      Pyromancer_Attack_Animation_13: 622400918
+      Pyromancer_Attack_Animation_14: 1311616004
+      Pyromancer_Attack_Animation_15: 645884245
+      Pyromancer_Attack_Animation_16: -818704513
+      Pyromancer_Attack_Animation_17: 333040540
+      Pyromancer_Attack_Animation_18: 1517241594
+      Pyromancer_Attack_Animation_19: -467237350
+      Pyromancer_Attack_Animation_2: 1287370746
+      Pyromancer_Attack_Animation_20: 1261931109
+      Pyromancer_Attack_Animation_21: 814513086
+      Pyromancer_Attack_Animation_22: -96176211
+      Pyromancer_Attack_Animation_23: -616761263
+      Pyromancer_Attack_Animation_24: -1840683571
+      Pyromancer_Attack_Animation_25: -676084644
+      Pyromancer_Attack_Animation_26: -641028879
+      Pyromancer_Attack_Animation_27: -186479459
+      Pyromancer_Attack_Animation_28: -1608074069
+      Pyromancer_Attack_Animation_29: -604915056
+      Pyromancer_Attack_Animation_3: -2020322148
+      Pyromancer_Attack_Animation_4: -1449321849
+      Pyromancer_Attack_Animation_5: -1971397559
+      Pyromancer_Attack_Animation_6: 852555739
+      Pyromancer_Attack_Animation_7: 1874899702
+      Pyromancer_Attack_Animation_8: -565920980
+      Pyromancer_Attack_Animation_9: 519843537
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="r11">
+    <folder id="0">
+        <file id="0" name="Darkened Soulhunter.png" width="512" height="512" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="Darkened-Soulhunter_0000_Darkened-Soulhunter_0000_Layer-2.png" width="342" height="525" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="Darkened-Soulhunter_0001_Darkened-Soulhunter_0001_Layer-4-copy.png" width="332" height="869" pivot_x="0" pivot_y="1"/>
+        <file id="3" name="Darkened-Soulhunter_0002_Darkened-Soulhunter_0001_Layer-4.png" width="329" height="860" pivot_x="0" pivot_y="1"/>
+        <file id="4" name="Darkened-Soulhunter_0003_Darkened-Soulhunter_0003_Layer-1.png" width="744" height="743" pivot_x="0" pivot_y="1"/>
+    </folder>
+    <entity id="0" name="entity_000">
+        <obj_info name="bone_000" type="bone" w="156.911" h="10"/>
+        <obj_info name="bone_001" type="bone" w="127.653" h="10"/>
+        <obj_info name="bone_002" type="bone" w="239.717" h="10"/>
+        <obj_info name="bone_003" type="bone" w="238.532" h="10"/>
+        <animation id="0" name="NewAnimation" length="1000" interval="100">
+            <mainline>
+                <key id="0">
+                    <bone_ref id="0" timeline="5" key="0"/>
+                    <bone_ref id="1" parent="0" timeline="6" key="0"/>
+                    <bone_ref id="2" parent="1" timeline="7" key="0"/>
+                    <bone_ref id="3" parent="1" timeline="8" key="0"/>
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="4" key="0" z_index="1"/>
+                    <object_ref id="2" parent="3" timeline="3" key="0" z_index="2"/>
+                    <object_ref id="3" parent="2" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="1" timeline="1" key="0" z_index="4"/>
+                </key>
+                <key id="1" time="500">
+                    <bone_ref id="0" timeline="5" key="1"/>
+                    <bone_ref id="1" parent="0" timeline="6" key="0"/>
+                    <bone_ref id="2" parent="1" timeline="7" key="1"/>
+                    <bone_ref id="3" parent="1" timeline="8" key="0"/>
+                    <object_ref id="0" timeline="0" key="0" z_index="0"/>
+                    <object_ref id="1" parent="0" timeline="4" key="0" z_index="1"/>
+                    <object_ref id="2" parent="3" timeline="3" key="0" z_index="2"/>
+                    <object_ref id="3" parent="2" timeline="2" key="0" z_index="3"/>
+                    <object_ref id="4" parent="1" timeline="1" key="0" z_index="4"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="Darkened Soulhunter">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="0.001946" y="268.826433" pivot_x="0.498054" pivot_y="0.526026" a="0.05517"/>
+                </key>
+            </timeline>
+            <timeline id="1" name="Darkened-Soulhunter_0000_Darkened-Soulhunter_0000_Layer-2_000">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="155.749184" y="3.177688" pivot_x="0.505141" pivot_y="0.017229" angle="90.729843" scale_x="0.5" scale_y="0.5"/>
+                </key>
+            </timeline>
+            <timeline id="2" name="Darkened-Soulhunter_0001_Darkened-Soulhunter_0001_Layer-4-copy">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="-9.623599" y="33.649036" pivot_x="0.850788" pivot_y="0.668966" angle="96.426028" scale_x="0.5" scale_y="0.5"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="Darkened-Soulhunter_0002_Darkened-Soulhunter_0001_Layer-4">
+                <key id="0" spin="0">
+                    <object folder="0" file="3" x="-10.948514" y="-3.543933" pivot_x="0.235375" pivot_y="0.700222" angle="78.996459" scale_x="0.5" scale_y="0.5"/>
+                </key>
+            </timeline>
+            <timeline id="4" name="Darkened-Soulhunter_0003_Darkened-Soulhunter_0003_Layer-1">
+                <key id="0" spin="0">
+                    <object folder="0" file="4" x="337.417429" y="185.746951" angle="270" scale_x="0.5" scale_y="0.5"/>
+                </key>
+            </timeline>
+            <timeline id="5" obj="0" name="bone_000" object_type="bone">
+                <key id="0" spin="-1">
+                    <bone x="-4.878049" y="82.113821" angle="90"/>
+                </key>
+                <key id="1" time="500">
+                    <bone x="-4.878049" y="82.113821" angle="88.195441"/>
+                </key>
+            </timeline>
+            <timeline id="6" obj="1" name="bone_001" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="321.138211" y="-3.252033" angle="179.270157" scale_x="1"/>
+                </key>
+            </timeline>
+            <timeline id="7" obj="2" name="bone_002" object_type="bone">
+                <key id="0" spin="-1">
+                    <bone x="114.702516" y="-68.463194" angle="354.303815"/>
+                </key>
+                <key id="1" time="500">
+                    <bone x="133.433014" y="-48.177619" angle="351.867952" scale_x="0.92363" scale_y="0.545639"/>
+                </key>
+            </timeline>
+            <timeline id="8" obj="3" name="bone_003" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="103.300613" y="60.67034" angle="11.733384"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

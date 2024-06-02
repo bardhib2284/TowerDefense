@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 3b018a32688ba7f4c92bf8c551a69689
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3104
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff14b34790de7b439549047aa3c61ed
+      internalID: 1118032608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_1
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 3104
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a311b7b32ba17d4e87c5a5343699dd1
+      internalID: 2113517670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_2
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 3104
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b36ed7f19064e419c0aa33b336347b
+      internalID: 815309568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_3
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 3104
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa46c1b42ba6f2f4e85bab6104e3e581
+      internalID: -201994362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_4
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 3104
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f3f07b253dc7e4fa607c0fe967b0d4
+      internalID: -1556412330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_5
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 3104
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fcb64c15a071b4b958db0b313034d0
+      internalID: -1766040873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2328
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890c1b2d4bc0fa245b1203be42ae6405
+      internalID: 740659633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_7
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2328
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165e03dfab4a03148b18e05187108426
+      internalID: -1521268401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_8
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 2328
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d871c669f8854549b067fc278374753
+      internalID: 2107295862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_9
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 2328
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8492b81dbf8b349bcd438f44034ae1
+      internalID: 1402826173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_10
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 2328
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43fde8995e92db4ca08b422c59a9639
+      internalID: -1703390113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_11
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 2328
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495d6c44a37656644af890dfa2e500da
+      internalID: -1399029456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1552
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a0a2abc84692f40b862e64297845a3
+      internalID: -1434164922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_13
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1552
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fef9771b3370c42b8d9a7ddd30ab9c
+      internalID: -1445472762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_14
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1552
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5637a4db2b34fd641adb03f96774023d
+      internalID: 920812712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_15
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 1552
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e342b7d4a60db4fb65b4e7bcfacaa1
+      internalID: 1989358879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_16
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 1552
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c86b88dfaddc347b903104fe1a4286
+      internalID: 577540211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_17
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 1552
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e486a1e55cd8c0f429fac57f1b15cb30
+      internalID: 517875952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d04947e047cd544bdd58f4098c0839
+      internalID: 2101707800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_19
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 776
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef3b8424544f0849aa7e13f92b37eb5
+      internalID: -1832358104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_20
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 776
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a09f29e525641449d89706ea3b9926
+      internalID: -1498995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_21
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 776
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cbf9b65129e694e86473a16a53fa5e
+      internalID: -1182120076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_22
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 776
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fb47f4deada4446b887798588fb9e5
+      internalID: -8669317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_23
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 776
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393f1b89fed3b8a42a1026d472ddaa6c
+      internalID: 375006965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f46d0ebe03078249baa0bab0ac5d976
+      internalID: 530717630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_25
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 0
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fed11152d7befa44a020488fbd8f3ea
+      internalID: 412358279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_26
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 0
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94240861b31c8fd43a16c364b1062203
+      internalID: -122618230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_27
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 0
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361663477f68a81478f6fd91d022c7de
+      internalID: -199520954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_28
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 0
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575144732f545294fbb9e7bd89b94d5e
+      internalID: 120445728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyromancer_Idle_Animation_29
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 0
+        width: 793
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba5ee6d8c8df3d4b89c5870e4bac6a1
+      internalID: -20874866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pyromancer_Idle_Animation_0: 1118032608
+      Pyromancer_Idle_Animation_1: 2113517670
+      Pyromancer_Idle_Animation_10: -1703390113
+      Pyromancer_Idle_Animation_11: -1399029456
+      Pyromancer_Idle_Animation_12: -1434164922
+      Pyromancer_Idle_Animation_13: -1445472762
+      Pyromancer_Idle_Animation_14: 920812712
+      Pyromancer_Idle_Animation_15: 1989358879
+      Pyromancer_Idle_Animation_16: 577540211
+      Pyromancer_Idle_Animation_17: 517875952
+      Pyromancer_Idle_Animation_18: 2101707800
+      Pyromancer_Idle_Animation_19: -1832358104
+      Pyromancer_Idle_Animation_2: 815309568
+      Pyromancer_Idle_Animation_20: -1498995
+      Pyromancer_Idle_Animation_21: -1182120076
+      Pyromancer_Idle_Animation_22: -8669317
+      Pyromancer_Idle_Animation_23: 375006965
+      Pyromancer_Idle_Animation_24: 530717630
+      Pyromancer_Idle_Animation_25: 412358279
+      Pyromancer_Idle_Animation_26: -122618230
+      Pyromancer_Idle_Animation_27: -199520954
+      Pyromancer_Idle_Animation_28: 120445728
+      Pyromancer_Idle_Animation_29: -20874866
+      Pyromancer_Idle_Animation_3: -201994362
+      Pyromancer_Idle_Animation_4: -1556412330
+      Pyromancer_Idle_Animation_5: -1766040873
+      Pyromancer_Idle_Animation_6: 740659633
+      Pyromancer_Idle_Animation_7: -1521268401
+      Pyromancer_Idle_Animation_8: 2107295862
+      Pyromancer_Idle_Animation_9: 1402826173
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

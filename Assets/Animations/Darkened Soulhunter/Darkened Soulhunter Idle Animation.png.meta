@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 8286955ef71fc5f49a35e4a9e06b5491
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2116
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fc7abcf6e09424482d94eb1687b24b
+      internalID: 962565945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2116
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbb88f1f4566cc459f6b6cf613e24fa
+      internalID: 16207257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2116
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfde171817e7b34ca95daec5e3a760c
+      internalID: 1055626419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_3
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 2116
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4b3ebf6d761aa489ea6ae8040a952c
+      internalID: 1833520897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_4
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 2116
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5594fce3313fa499a018c030eaf8ef
+      internalID: 1657579558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_5
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 2116
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c27cd2c49a0a348bb78bb5b71515e1
+      internalID: 2123665356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1587
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0638163533df2a84baedd6d2866313e8
+      internalID: -1056098684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1587
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cd3993a7d0ddc42bca973f6339bcc7
+      internalID: 1157230911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_8
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1587
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8cbc8a0ad06304ea9ea138bb0b8fd6
+      internalID: 168183802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_9
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1587
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77e242a758656449b1bffb062847fa9
+      internalID: 515118622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_10
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1587
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee3ccb23d657254f80fe34f0f5f82f4
+      internalID: -1448267718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_11
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1587
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6272e724f3b3f4781912e682887a31
+      internalID: -1859921792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1058
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0bf8660c696374c824e63bedc5a382
+      internalID: 1670994632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1058
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5414c36ffd7b81245b3667b1cdda7f4b
+      internalID: -1335739125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_14
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1058
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e289c7bec83c784e9899e0405b19eb2
+      internalID: 1694455497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_15
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1058
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3846ab54462af341a09293e33b9e50b
+      internalID: 919259793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_16
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1058
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c2e323c6329f94abd48a93daa337c5
+      internalID: -1580588429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_17
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1058
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc7af63a5b852d4facafa017760a71e
+      internalID: 416082755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1781105a474e23647a0754067367bb20
+      internalID: 1591303261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 529
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048fd659ad26e3a43b3326e34100fc8b
+      internalID: 911251065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_20
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 529
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acb971562b069f498afb949ca40b2ab
+      internalID: -1213900836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_21
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 529
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c569a7f2bed91404a9ae5b034b81face
+      internalID: -1544532551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_22
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 529
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db9daa7c85679f4d8c05fb19b687fcc
+      internalID: -368826463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_23
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 529
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d0c3d2565e71d4b850303ba43942ea
+      internalID: 1768244976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ad034f5697a3b4fb46d64905f5e904
+      internalID: 1008524365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_25
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f848bc450f7bb3a45befd2fe0f5f94d4
+      internalID: -2025351222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_26
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22fc10df3d3a3f42bb52f0e7bd15b6c
+      internalID: 214236454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_27
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 0
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e0bef05f5ea8047807181a0c4573b2
+      internalID: 1181915412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_28
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 0
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019f6990d30b9bf4d8316a8186bd4af9
+      internalID: 550030940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Idle Animation_29
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 0
+        width: 388
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5e0f160ec0a34449813d3912ef467f
+      internalID: -1757055269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Darkened Soulhunter Idle Animation_0: 962565945
+      Darkened Soulhunter Idle Animation_1: 16207257
+      Darkened Soulhunter Idle Animation_10: -1448267718
+      Darkened Soulhunter Idle Animation_11: -1859921792
+      Darkened Soulhunter Idle Animation_12: 1670994632
+      Darkened Soulhunter Idle Animation_13: -1335739125
+      Darkened Soulhunter Idle Animation_14: 1694455497
+      Darkened Soulhunter Idle Animation_15: 919259793
+      Darkened Soulhunter Idle Animation_16: -1580588429
+      Darkened Soulhunter Idle Animation_17: 416082755
+      Darkened Soulhunter Idle Animation_18: 1591303261
+      Darkened Soulhunter Idle Animation_19: 911251065
+      Darkened Soulhunter Idle Animation_2: 1055626419
+      Darkened Soulhunter Idle Animation_20: -1213900836
+      Darkened Soulhunter Idle Animation_21: -1544532551
+      Darkened Soulhunter Idle Animation_22: -368826463
+      Darkened Soulhunter Idle Animation_23: 1768244976
+      Darkened Soulhunter Idle Animation_24: 1008524365
+      Darkened Soulhunter Idle Animation_25: -2025351222
+      Darkened Soulhunter Idle Animation_26: 214236454
+      Darkened Soulhunter Idle Animation_27: 1181915412
+      Darkened Soulhunter Idle Animation_28: 550030940
+      Darkened Soulhunter Idle Animation_29: -1757055269
+      Darkened Soulhunter Idle Animation_3: 1833520897
+      Darkened Soulhunter Idle Animation_4: 1657579558
+      Darkened Soulhunter Idle Animation_5: 2123665356
+      Darkened Soulhunter Idle Animation_6: -1056098684
+      Darkened Soulhunter Idle Animation_7: 1157230911
+      Darkened Soulhunter Idle Animation_8: 168183802
+      Darkened Soulhunter Idle Animation_9: 515118622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

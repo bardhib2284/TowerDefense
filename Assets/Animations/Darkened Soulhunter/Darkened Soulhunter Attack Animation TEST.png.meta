@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 7ca59154e7c76da4bb419f4671243d6f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2020
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7430b2f04d004346aa29ac2d0979277
+      internalID: -1742390273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2020
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3e05bd69082a34aab2301d78afeed2
+      internalID: -705184717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_2
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2020
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265f16afeb16c9d489d5043c353bdad4
+      internalID: -929118289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_3
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2020
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c4bce81811eaf46ba0827b224e489c
+      internalID: 101293018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_4
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 2020
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf74410947f8aa44baa6dbca0732cf36
+      internalID: 119807655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_5
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 2020
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073f00bf2d7c07e46aa5d76519d52d74
+      internalID: -603308227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1515
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ada6a0e9585c064f907f7f1b45dd310
+      internalID: 1252948176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1515
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01da54989ce774419900c04537b451c
+      internalID: 95148163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_8
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1515
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4754eb11d13f4714d99b593758976e06
+      internalID: -1214281507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_9
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1515
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac73caa39e5516d468be8a3bcb1bf9c9
+      internalID: -1115857239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_10
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1515
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486e588ef3db97547a4c0dbda04cb1b6
+      internalID: -49694718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_11
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1515
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a25afa30b05f54aaa754c086d3d79a
+      internalID: -1447219082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8187401a1e609c478f38a6f975a50fb
+      internalID: -511155225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_13
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1010
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e690ac39f96a8543bb28be026dc43e9
+      internalID: -1417069082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1010
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405dbb392feb67e48a44c82e330bf809
+      internalID: 1939205469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_15
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1010
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db257b4969f9a747b299d5a41eb333c
+      internalID: 348013694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_16
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1010
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d98633faf47fb4f9d23c3756395382
+      internalID: 1973599842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_17
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1010
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20270ee11ad3b34facef90e081a0159
+      internalID: 1635940056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5530662aaabab47aa0aedd72150c7e
+      internalID: 1105388351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 505
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb93eb420c80d74fb0379533394bb58
+      internalID: -284672071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_20
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 505
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5544410d0074ece4584395894f9a96e7
+      internalID: -286703028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_21
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 505
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47e68bb5240b6645a61dd5cb196751c
+      internalID: -417800293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_22
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 505
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9d6f3d2e8e25d4ea9fbb7cbd0a5010
+      internalID: 688155077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_23
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 505
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df666304fda950141bcbf2a022f08bc1
+      internalID: 104759505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94e3efbdc2fef744957fb831d7612e4
+      internalID: 402718007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b17a33d103a1f7429ba216d9df0204e
+      internalID: 2021862560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_26
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 0
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4722d8b88ce81d64f8b2e0d24b9024c5
+      internalID: -1231225821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_27
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 0
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35528bd5ac3facf46ab9119579a0deb6
+      internalID: 998260324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_28
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 0
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6992b2956d6b2b841a2626c1e566e05c
+      internalID: -1885151317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened Soulhunter Attack Animation TEST_29
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 0
+        width: 383
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d46d1e22735e5428c615f013d336b1
+      internalID: -1544718154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Darkened Soulhunter Attack Animation TEST_0: -1742390273
+      Darkened Soulhunter Attack Animation TEST_1: -705184717
+      Darkened Soulhunter Attack Animation TEST_10: -49694718
+      Darkened Soulhunter Attack Animation TEST_11: -1447219082
+      Darkened Soulhunter Attack Animation TEST_12: -511155225
+      Darkened Soulhunter Attack Animation TEST_13: -1417069082
+      Darkened Soulhunter Attack Animation TEST_14: 1939205469
+      Darkened Soulhunter Attack Animation TEST_15: 348013694
+      Darkened Soulhunter Attack Animation TEST_16: 1973599842
+      Darkened Soulhunter Attack Animation TEST_17: 1635940056
+      Darkened Soulhunter Attack Animation TEST_18: 1105388351
+      Darkened Soulhunter Attack Animation TEST_19: -284672071
+      Darkened Soulhunter Attack Animation TEST_2: -929118289
+      Darkened Soulhunter Attack Animation TEST_20: -286703028
+      Darkened Soulhunter Attack Animation TEST_21: -417800293
+      Darkened Soulhunter Attack Animation TEST_22: 688155077
+      Darkened Soulhunter Attack Animation TEST_23: 104759505
+      Darkened Soulhunter Attack Animation TEST_24: 402718007
+      Darkened Soulhunter Attack Animation TEST_25: 2021862560
+      Darkened Soulhunter Attack Animation TEST_26: -1231225821
+      Darkened Soulhunter Attack Animation TEST_27: 998260324
+      Darkened Soulhunter Attack Animation TEST_28: -1885151317
+      Darkened Soulhunter Attack Animation TEST_29: -1544718154
+      Darkened Soulhunter Attack Animation TEST_3: 101293018
+      Darkened Soulhunter Attack Animation TEST_4: 119807655
+      Darkened Soulhunter Attack Animation TEST_5: -603308227
+      Darkened Soulhunter Attack Animation TEST_6: 1252948176
+      Darkened Soulhunter Attack Animation TEST_7: 95148163
+      Darkened Soulhunter Attack Animation TEST_8: -1214281507
+      Darkened Soulhunter Attack Animation TEST_9: -1115857239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

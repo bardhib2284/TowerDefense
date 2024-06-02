@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 6d41925ab842d6c468b1fd73740489fe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5880
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26814dd1f240614b9d7daa6fdeacb49
+      internalID: -1439277725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_1
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 5880
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a346671aff98234b9aae120102923d8
+      internalID: 2042425205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_2
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 5880
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14bedd965cfb7c4a8da638ad693343d
+      internalID: -410858891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_3
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 5880
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8055b618572061b4f9b5db97b7b193a2
+      internalID: -2034767531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_4
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 5880
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb379a9388941546917c4f60f24dda5
+      internalID: -2065193195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4704
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16e8adf635838947b9259844b630154
+      internalID: 233834128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_6
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 4704
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eac0801e260fd4f8a5e8d639c6b639
+      internalID: -1644325299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_7
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 4704
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f275011d8df54794eba8b6b3dd125df9
+      internalID: 654787984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_8
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 4704
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54a0923bf00d13418ca6bfb63931543
+      internalID: -1250272940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_9
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 4704
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6d946b7e000c04aa7f56e2ddcb8bf9
+      internalID: -958129984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3528
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d580889d3060eac4b85cc9cbb2537506
+      internalID: 944986254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_11
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 3528
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa69d745bba198845bf2eb76c90271db
+      internalID: 1558779381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_12
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 3528
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a603f1929eb6024da5114792ea4550c
+      internalID: 1908623866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_13
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 3528
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f2319177153cc4e85e2bffbf9d4da8
+      internalID: 1441836905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_14
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 3528
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8de1bf4dc1d06e4dad5ed8b049763f4
+      internalID: -1006674869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2352
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13efb75226ebd9043a0d702f7c60d079
+      internalID: -477554249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_16
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2352
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e47a3923326949a2ee177fe39f4a8
+      internalID: 243828403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_17
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 2352
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be6e718bbf078f4999e6715ea78dbab
+      internalID: 56332630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_18
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 2352
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5236e85fe38bae140ab144df411b85aa
+      internalID: 1765661123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_19
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 2352
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2c5620477170249b9c3d4583a797f3
+      internalID: 1802137211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b0469225842ad4692ed4bbabf13071
+      internalID: 1170828333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_21
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1176
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00da601114823e4b9ebd5f0a3590fd7
+      internalID: 1623244615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_22
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1176
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b05cdecadd0774e80cab5b886be929
+      internalID: 896972059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_23
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1176
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ac3d07aa0922b4bad0bf2ebc27edc0
+      internalID: 1840217642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_24
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 1176
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004fddefd602d884cb8b0e7a1ba58c48
+      internalID: -1946639616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ea19ccc9c59d249b6d5124317f822f
+      internalID: -1072833833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_26
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 0
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8463b244bfda3ba4e9dc90092997f8f0
+      internalID: -697609977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_27
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 0
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1250f4121af0584aaffb347841ee3a0
+      internalID: 1637959198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_28
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 0
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce382f3185e5d74193249a52996ba63
+      internalID: 785258537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkened-Soulhunter-Idle-Test_29
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 0
+        width: 856
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa562a3da61132408c72fdde96ba3c3
+      internalID: 2035672730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Darkened-Soulhunter-Idle-Test_0: -1439277725
+      Darkened-Soulhunter-Idle-Test_1: 2042425205
+      Darkened-Soulhunter-Idle-Test_10: 944986254
+      Darkened-Soulhunter-Idle-Test_11: 1558779381
+      Darkened-Soulhunter-Idle-Test_12: 1908623866
+      Darkened-Soulhunter-Idle-Test_13: 1441836905
+      Darkened-Soulhunter-Idle-Test_14: -1006674869
+      Darkened-Soulhunter-Idle-Test_15: -477554249
+      Darkened-Soulhunter-Idle-Test_16: 243828403
+      Darkened-Soulhunter-Idle-Test_17: 56332630
+      Darkened-Soulhunter-Idle-Test_18: 1765661123
+      Darkened-Soulhunter-Idle-Test_19: 1802137211
+      Darkened-Soulhunter-Idle-Test_2: -410858891
+      Darkened-Soulhunter-Idle-Test_20: 1170828333
+      Darkened-Soulhunter-Idle-Test_21: 1623244615
+      Darkened-Soulhunter-Idle-Test_22: 896972059
+      Darkened-Soulhunter-Idle-Test_23: 1840217642
+      Darkened-Soulhunter-Idle-Test_24: -1946639616
+      Darkened-Soulhunter-Idle-Test_25: -1072833833
+      Darkened-Soulhunter-Idle-Test_26: -697609977
+      Darkened-Soulhunter-Idle-Test_27: 1637959198
+      Darkened-Soulhunter-Idle-Test_28: 785258537
+      Darkened-Soulhunter-Idle-Test_29: 2035672730
+      Darkened-Soulhunter-Idle-Test_3: -2034767531
+      Darkened-Soulhunter-Idle-Test_4: -2065193195
+      Darkened-Soulhunter-Idle-Test_5: 233834128
+      Darkened-Soulhunter-Idle-Test_6: -1644325299
+      Darkened-Soulhunter-Idle-Test_7: 654787984
+      Darkened-Soulhunter-Idle-Test_8: -1250272940
+      Darkened-Soulhunter-Idle-Test_9: -958129984
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
