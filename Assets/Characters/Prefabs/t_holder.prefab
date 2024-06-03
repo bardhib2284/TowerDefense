@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8906508013031581338}
   - component: {fileID: 1437271527510553979}
   - component: {fileID: 730757289160128033}
+  - component: {fileID: 7676609069202624448}
   m_Layer: 0
   m_Name: t_dmg
   m_TagString: Untagged
@@ -111,8 +112,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278209487
+  m_fontColor: {r: 0.8117647, g: 0.29496026, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -190,6 +191,18 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
+--- !u!114 &7676609069202624448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3728310486527731302}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 813a491f3fabcd144bb20707cbdbeba8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5741011272938336475
 GameObject:
   m_ObjectHideFlags: 0
@@ -215,7 +228,7 @@ Transform:
   m_GameObject: {fileID: 5741011272938336475}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.25, z: 0}
+  m_LocalPosition: {x: 0, y: 0.25, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:

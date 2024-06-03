@@ -37,11 +37,14 @@ public class EnemyAI : MonoBehaviour
     public void TakeDamage(float dmg) {
         var textDmgPrefat = Instantiate(TextDamagePrefab, transform.position,Quaternion.identity);
         if (dmg > 100) {
-            textDmgPrefat.transform.GetComponentInChildren<TextMeshPro>().color = Color.red;
-            textDmgPrefat.transform.position = new Vector3(textDmgPrefat.transform.position.x + Random.Range(0, 0.02f), textDmgPrefat.transform.position.y + Random.Range(0, 0.02f), 20);
+            textDmgPrefat.transform.GetComponentInChildren<TextMeshPro>().enableVertexGradient = true;
+            textDmgPrefat.transform.GetComponentInChildren<TextMeshPro>().fontStyle = FontStyles.Bold;
+            textDmgPrefat.transform.GetComponentInChildren<TextMeshPro>().colorGradient = new VertexGradient(new Color(204, 93, 0),new Color(255,250,0),new Color(241, 65, 65), new Color(188, 108, 27));
+            textDmgPrefat.transform.position = new Vector3(textDmgPrefat.transform.position.x + Random.Range(0, 0.32f), textDmgPrefat.transform.position.y + Random.Range(0, 0.32f), -3);
             textDmgPrefat.transform.transform.localScale = new Vector3(2f, 2f, 2f);
         }
         else {
+            textDmgPrefat.transform.position = new Vector3(textDmgPrefat.transform.position.x + Random.Range(0, 0.12f), textDmgPrefat.transform.position.y + Random.Range(0, 0.12f), -1);
             textDmgPrefat.transform.GetComponentInChildren<TextMeshPro>().color = Color.white;
         }
         textDmgPrefat.transform.GetComponentInChildren<TextMeshPro>().text = dmg.ToString();
