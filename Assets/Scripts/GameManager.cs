@@ -44,6 +44,8 @@ public class GameManager : MonoBehaviour
 
 
         EnemiesSpawnPoint = GameObject.FindWithTag("EnemySpawnPoint").GetComponent<SpawnPoint>();
+        StartCoroutine(SpawnMonsters());
+
     }
 
     public float LastDistanceKnownForChildren;
@@ -76,9 +78,6 @@ public class GameManager : MonoBehaviour
                     characterComponent.AttackSpeed -= characterComponent.AttackSpeed * 0.20f;
                 }
             }
-        }
-        if (Input.GetKeyDown(KeyCode.A)) {
-            StartCoroutine(SpawnMonsters());
         }
 
     }
