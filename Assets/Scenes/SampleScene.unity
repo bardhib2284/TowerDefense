@@ -2847,6 +2847,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CharacterPrefabs:
   - {fileID: 6917538662924286971, guid: e02dad073f7338542a78e477ac832602, type: 3}
+  - {fileID: 7264705807311596264, guid: e57ef857a5d26884fbfcabfc39afbe9d, type: 3}
   SpawnPoints: []
   Trail: {fileID: 1391146743}
   Trails: []
