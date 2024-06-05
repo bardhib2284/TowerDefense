@@ -3,126 +3,108 @@
     <folder id="0">
         <file id="0" name="Lumina Sylph.png" width="1024" height="1024" pivot_x="0" pivot_y="1"/>
         <file id="1" name="Lumina-Sylph_0000_Layer-2.png" width="396" height="489" pivot_x="0" pivot_y="1"/>
-        <file id="2" name="Lumina-Sylph_0001_Layer-3.png" width="190" height="274" pivot_x="0" pivot_y="1"/>
+        <file id="2" name="Lumina-Sylph_0001_Layer-3.png" width="107" height="81" pivot_x="0" pivot_y="1"/>
         <file id="3" name="Lumina-Sylph_0002_Layer-4.png" width="190" height="274" pivot_x="0" pivot_y="1"/>
         <file id="4" name="Lumina-Sylph_0003_Layer-5.png" width="175" height="323" pivot_x="0" pivot_y="1"/>
         <file id="5" name="Lumina-Sylph_0004_Layer-6.png" width="186" height="324" pivot_x="0" pivot_y="1"/>
-        <file id="6" name="Lumina-Sylph_0005_Layer-1.png" width="391" height="632" pivot_x="0" pivot_y="1"/>
+        <file id="6" name="Lumina-Sylph_0005_Layer-1.png" width="269" height="165" pivot_x="0" pivot_y="1"/>
+        <file id="7" name="Lumina-Sylph_0003_Layer-2.png" width="594" height="834" pivot_x="0" pivot_y="1"/>
+        <file id="8" name="Lumina-Sylph_0002_infinity0696_2D_Staff_for_Crystal_Maiden_Character._Rush_Royale_0750e160-dba4-46d3-8c8a-f45f8c05d510.png" width="873" height="326" pivot_x="0" pivot_y="1"/>
+        <file id="9" name="Lumina-Sylph_0000_Layer-4.png" width="114" height="88" pivot_x="0" pivot_y="1"/>
     </folder>
     <entity id="0" name="entity_001">
-        <obj_info name="bone_000" type="bone" w="12.2653" h="10"/>
-        <obj_info name="bone_001" type="bone" w="39.1927" h="10"/>
-        <obj_info name="bone_002" type="bone" w="18.395" h="10"/>
-        <obj_info name="bone_003" type="bone" w="16.5314" h="10"/>
-        <obj_info name="bone_004" type="bone" w="19.2069" h="10"/>
-        <obj_info name="bone_005" type="bone" w="19.1745" h="10"/>
+        <obj_info name="bone_006" type="bone" w="742.348" h="10"/>
+        <obj_info name="bone_007" type="bone" w="742.816" h="10"/>
+        <obj_info name="bone_008" type="bone" w="50" h="10"/>
+        <obj_info name="bone_009" type="bone" w="56.0008" h="10"/>
         <animation id="0" name="NewAnimation" length="1000" interval="100">
             <mainline>
                 <key id="0">
-                    <bone_ref id="0" timeline="0" key="0"/>
-                    <bone_ref id="1" parent="0" timeline="1" key="0"/>
-                    <bone_ref id="2" parent="0" timeline="2" key="0"/>
-                    <bone_ref id="3" parent="0" timeline="3" key="0"/>
-                    <bone_ref id="4" parent="0" timeline="4" key="0"/>
-                    <bone_ref id="5" parent="0" timeline="5" key="0"/>
-                    <object_ref id="0" parent="4" timeline="6" key="0" z_index="0"/>
-                    <object_ref id="1" parent="5" timeline="7" key="0" z_index="1"/>
-                    <object_ref id="2" parent="2" timeline="8" key="0" z_index="2"/>
-                    <object_ref id="3" parent="0" timeline="9" key="0" z_index="3"/>
-                    <object_ref id="4" parent="3" timeline="10" key="0" z_index="4"/>
-                    <object_ref id="5" parent="1" timeline="11" key="0" z_index="5"/>
+                    <bone_ref id="0" timeline="4" key="0"/>
+                    <bone_ref id="1" parent="0" timeline="5" key="0"/>
+                    <bone_ref id="2" parent="1" timeline="6" key="0"/>
+                    <bone_ref id="3" parent="2" timeline="7" key="0"/>
+                    <object_ref id="0" parent="0" timeline="0" key="0" z_index="0"/>
+                    <object_ref id="1" parent="1" timeline="1" key="0" z_index="1"/>
+                    <object_ref id="2" parent="3" timeline="2" key="0" z_index="2"/>
+                    <object_ref id="3" parent="2" timeline="3" key="0" z_index="3"/>
+                    <object_ref id="4" timeline="8" key="0" z_index="4"/>
                 </key>
                 <key id="1" time="500">
-                    <bone_ref id="0" timeline="0" key="1"/>
-                    <bone_ref id="1" parent="0" timeline="1" key="1"/>
-                    <bone_ref id="2" parent="0" timeline="2" key="1"/>
-                    <bone_ref id="3" parent="0" timeline="3" key="1"/>
-                    <bone_ref id="4" parent="0" timeline="4" key="1"/>
-                    <bone_ref id="5" parent="0" timeline="5" key="1"/>
-                    <object_ref id="0" parent="4" timeline="6" key="0" z_index="0"/>
-                    <object_ref id="1" parent="5" timeline="7" key="0" z_index="1"/>
-                    <object_ref id="2" parent="2" timeline="8" key="0" z_index="2"/>
-                    <object_ref id="3" parent="0" timeline="9" key="0" z_index="3"/>
-                    <object_ref id="4" parent="3" timeline="10" key="0" z_index="4"/>
-                    <object_ref id="5" parent="1" timeline="11" key="0" z_index="5"/>
+                    <bone_ref id="0" timeline="4" key="1"/>
+                    <bone_ref id="1" parent="0" timeline="5" key="1"/>
+                    <bone_ref id="2" parent="1" timeline="6" key="0"/>
+                    <bone_ref id="3" parent="2" timeline="7" key="0"/>
+                    <object_ref id="0" parent="0" timeline="0" key="0" z_index="0"/>
+                    <object_ref id="1" parent="1" timeline="1" key="0" z_index="1"/>
+                    <object_ref id="2" parent="3" timeline="2" key="0" z_index="2"/>
+                    <object_ref id="3" parent="2" timeline="3" key="0" z_index="3"/>
+                    <object_ref id="4" timeline="8" key="0" z_index="4"/>
+                </key>
+                <key id="2" time="994">
+                    <bone_ref id="0" timeline="4" key="1"/>
+                    <bone_ref id="1" parent="0" timeline="5" key="2"/>
+                    <bone_ref id="2" parent="1" timeline="6" key="0"/>
+                    <bone_ref id="3" parent="2" timeline="7" key="0"/>
+                    <object_ref id="0" parent="0" timeline="0" key="0" z_index="0"/>
+                    <object_ref id="1" parent="1" timeline="1" key="0" z_index="1"/>
+                    <object_ref id="2" parent="3" timeline="2" key="0" z_index="2"/>
+                    <object_ref id="3" parent="2" timeline="3" key="0" z_index="3"/>
+                    <object_ref id="4" timeline="8" key="0" z_index="4"/>
                 </key>
             </mainline>
-            <timeline id="0" obj="0" name="bone_000" object_type="bone">
+            <timeline id="0" name="Lumina-Sylph_0003_Layer-2">
                 <key id="0" spin="0">
-                    <bone x="19.267516" y="-60.828025" angle="88.512132"/>
-                </key>
-                <key id="1" time="500" spin="0">
-                    <bone x="19.267516" y="-60.828025" angle="88.512132" scale_x="0.98" scale_y="0.98"/>
+                    <object folder="0" file="7" x="-46.191223" y="3.367695" pivot_x="0.505042" pivot_y="0.003678" angle="270.593717"/>
                 </key>
             </timeline>
-            <timeline id="1" obj="1" name="bone_001" object_type="bone">
+            <timeline id="1" name="Lumina-Sylph_0002_infinity0696_2D_Staff_for_Crystal_Maiden_Character">
                 <key id="0" spin="0">
-                    <bone x="16.571464" y="-0.20673" angle="3.350488" scale_x="1"/>
-                </key>
-                <key id="1" time="500" spin="0">
-                    <bone x="15.76189" y="-0.227758" angle="3.350488" scale_x="0.973836" scale_y="0.960984"/>
+                    <object folder="0" file="8" x="841.020789" y="-59.362914" angle="195.619392"/>
                 </key>
             </timeline>
-            <timeline id="2" obj="2" name="bone_002" object_type="bone">
+            <timeline id="2" name="Lumina-Sylph_0000_Layer-4">
+                <key id="0" spin="0">
+                    <object folder="0" file="9" x="90.703126" y="-41.794421" angle="195.945396"/>
+                </key>
+            </timeline>
+            <timeline id="3" name="Lumina-Sylph_0001_Layer-3_000">
+                <key id="0" spin="0">
+                    <object folder="0" file="2" x="84.811928" y="-32.761318" angle="202.619865"/>
+                </key>
+            </timeline>
+            <timeline id="4" obj="0" name="bone_006" object_type="bone">
+                <key id="0" spin="0">
+                    <bone x="3.846154" y="46.153846" angle="89.406283"/>
+                </key>
+                <key id="1" time="500" spin="0">
+                    <bone x="3.846154" y="46.153846" angle="89.406283" scale_x="1.025" scale_y="1.025"/>
+                </key>
+            </timeline>
+            <timeline id="5" obj="1" name="bone_007" object_type="bone">
                 <key id="0" spin="-1">
-                    <bone x="17.024203" y="13.026048" angle="160.699622" scale_x="1"/>
+                    <bone x="-34.912434" y="-342.687858" angle="74.974325"/>
                 </key>
                 <key id="1" time="500">
-                    <bone x="17.223094" y="12.392673" angle="157.164433" scale_x="1"/>
+                    <bone x="-34.912434" y="-342.687858" angle="63.502152" scale_x="0.904762" scale_y="0.904762"/>
+                </key>
+                <key id="2" time="994">
+                    <bone x="-34.912434" y="-342.687858" angle="74.836659" scale_x="0.999429" scale_y="0.999429"/>
                 </key>
             </timeline>
-            <timeline id="3" obj="3" name="bone_003" object_type="bone">
-                <key id="0">
-                    <bone x="16.918771" y="-13.578016" angle="202.366884" scale_x="1"/>
-                </key>
-                <key id="1" time="500" spin="-1">
-                    <bone x="17.369828" y="-13.38386" angle="207.542872" scale_x="1"/>
-                </key>
-            </timeline>
-            <timeline id="4" obj="4" name="bone_004" object_type="bone">
+            <timeline id="6" obj="2" name="bone_008" object_type="bone">
                 <key id="0" spin="0">
-                    <bone x="-3.634311" y="5.002862" angle="169.525816"/>
-                </key>
-                <key id="1" time="500" spin="0">
-                    <bone x="-3.474286" y="4.85094" angle="169.525816" scale_x="1.020408" scale_y="1.020408"/>
+                    <bone x="144.898846" y="24.534824" angle="352.999527"/>
                 </key>
             </timeline>
-            <timeline id="5" obj="5" name="bone_005" object_type="bone">
+            <timeline id="7" obj="3" name="bone_009" object_type="bone">
                 <key id="0" spin="0">
-                    <bone x="-2.528306" y="-6.915113" angle="192.984431"/>
-                </key>
-                <key id="1" time="500" spin="0">
-                    <bone x="-2.294346" y="-6.909036" angle="192.984431" scale_x="1.020408" scale_y="1.020408"/>
+                    <bone x="116.272189" y="10.946746" angle="6.674469"/>
                 </key>
             </timeline>
-            <timeline id="6" name="Lumina-Sylph_0003_Layer-5">
+            <timeline id="8" name="Lumina Sylph">
                 <key id="0" spin="0">
-                    <object folder="0" file="4" x="-4.799191" y="-13.504814" angle="101.962051" scale_x="0.1" scale_y="0.1"/>
-                </key>
-            </timeline>
-            <timeline id="7" name="Lumina-Sylph_0004_Layer-6">
-                <key id="0" spin="0">
-                    <object folder="0" file="5" x="-7.903803" y="-5.283461" angle="78.503437" scale_x="0.1" scale_y="0.1"/>
-                </key>
-            </timeline>
-            <timeline id="8" name="Lumina-Sylph_0002_Layer-4">
-                <key id="0" spin="0">
-                    <object folder="0" file="3" x="-2.117837" y="-13.415113" angle="110.788246" scale_x="0.1" scale_y="0.1"/>
-                </key>
-            </timeline>
-            <timeline id="9" name="Lumina-Sylph_0005_Layer-1">
-                <key id="0" spin="0">
-                    <object folder="0" file="6" x="41.103156" y="19.7981" angle="271.487868" scale_x="0.1" scale_y="0.1"/>
-                </key>
-            </timeline>
-            <timeline id="10" name="Lumina-Sylph_0001_Layer-3">
-                <key id="0" spin="0">
-                    <object folder="0" file="2" x="-9.828844" y="-4.23239" angle="69.120983" scale_x="0.1" scale_y="0.1"/>
-                </key>
-            </timeline>
-            <timeline id="11" name="Lumina-Sylph_0000_Layer-2">
-                <key id="0" spin="0">
-                    <object folder="0" file="1" x="44.891084" y="18.455108" angle="268.137379" scale_x="0.1" scale_y="0.1"/>
+                    <object folder="0" file="0" x="-491.428571" y="905.714286" angle="0" a="0"/>
                 </key>
             </timeline>
         </animation>
