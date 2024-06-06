@@ -298,13 +298,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fce448eefd40ddf4e9b02a781d9394cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 4
   Trails: []
   TargetPoint: {fileID: 0}
   CurrentPoint: 0
   Dead: 0
   Health: 0
-  MaxHealth: 250
+  MaxHealth: 800
   DistanceToLastPoint: 0
   TextDamagePrefab: {fileID: 5741011272938336475, guid: 3e5558d8f5c7b57448b5d90b401a8e62, type: 3}
 --- !u!1 &7805648892990729910

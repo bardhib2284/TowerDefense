@@ -38,6 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2845,7 +2846,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CharacterPrefabs:
-  - {fileID: 6917538662924286971, guid: e02dad073f7338542a78e477ac832602, type: 3}
+  - {fileID: 5029873518119111211, guid: ff7630cbadf70154ea0f4e9ea599abf4, type: 3}
+  - {fileID: 5755688540741572626, guid: 714877a27f295584bab2beb746c62ae8, type: 3}
   SpawnPoints: []
   Trail: {fileID: 1391146743}
   Trails: []
